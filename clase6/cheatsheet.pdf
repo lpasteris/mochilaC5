@@ -1,0 +1,19 @@
+Comandos de Git
+	Repositorio local
+		git init
+	Clonar un repositorio con un enlace de GitHub
+		git clone https://<token>@github.com/<repositorio>
+Comandos de Bash
+	Para entrar o moverse por las carpetas
+		cd <direccion absoluta/relativa>
+	Crear carpetas
+		mkdir <direccion absoluta/relativa>
+	Crear archivos
+		touch <direccion absoluta/relativa.extension>
+	Remover archivos
+		rm -<parametro> <direccion absoluta/relativa<.extension>>
+			Parametros
+				-r para directorios
+				-f para forzar el eliminado
+	Mover/renombrar archivos
+		mv <direccion original absoluta/relativa<.extension>> <direccion destino absoluta/relativa<.extension>>
