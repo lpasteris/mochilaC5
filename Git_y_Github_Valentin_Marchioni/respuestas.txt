@@ -1,0 +1,6 @@
+a.Git es un proyecto de código abierto maduro y con un mantenimiento activo que desarrolló originalmente Linus Torvalds, el famoso creador del kernel del sistema operativo Linux, en 2005.
+
+b.La forma más sencilla de describir GitHub es como una forja, es decir, una plataforma de desarrollo colaborativa de software. Pero es mucho más que un wrapper o envoltorio de Git, el sistema de control de versiones creado originalmente por Linus Torvalds para controlar el desarrollo del kernel de Linux. Estamos hablando de una red social de facto, con más de 28 millones de usuarios y más de 85 millones de repositorios de código.
+Microsoft adquiere GitHub ya que, En plena explosión de cloud services (servicios en la nube), con un crecimiento previsto para este año del 21.4%, Microsoft tiene que competir con el líder indiscutible a día de hoy, la todopoderosa Amazon con AWS. Qué mejor forma de hacerlo que estar en contacto directo con los desarrolladores que trabajan en esos servicios, ver sus necesidades y ofrecerles herramientas que faciliten su integración con Azure.
+
+c.Se puede utilizar GitHub Desktop para crear y administrar un repositorio de Git sin utilizar la línea de comandos.
