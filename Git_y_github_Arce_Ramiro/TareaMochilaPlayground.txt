@@ -24,7 +24,7 @@ pensando en la eficiencia, la confiabilidad y compatibilidad del mantenimiento d
  siendo, en este caso, de utilidad la interfaz grafica.
 
  De todas formas, para el desarrollo de los proyectos que son llevado a cabo por equipos integrados de varias personas, puede resultar una herramienta muy util y con fuerte adaptacion
- al mundo del desarrollo de sofware.
+ al mundo del desarrollo de sofware..
 
 
 
