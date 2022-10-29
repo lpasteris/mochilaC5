@@ -1,0 +1,5 @@
+1) Git es un software de control de versiones diseñado por Linus Torvalds, pensando en la eficiencia, la confiabilidad y compatibilidad del mantenimiento de versiones de aplicaciones cuando estas tienen un gran número de archivos de código fuente
+
+2) GitHub actualemente pertenece a Microsoft, quien lo compro en 2018 por 7500 millones de dólares.
+
+3) Si, GitHub Desktop es una aplicación que te habilita para interactuar con GitHub 
