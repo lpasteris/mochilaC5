@@ -1,0 +1,52 @@
+Ramiro@LAPTOP-SIUTO306 MINGW64 ~/Desktop/DigitalHouse/Peliculas
+$ ls -R
+.:
+Accion  Comedia  Infantiles  Romanticas  Terror
+
+./Accion:
+cars.jpg  diario_de_una_pasion.js  el_hexorcista.xls  smooth_criminal.txt
+
+./Comedia:
+IT.xls  madagaskar.js  Mision_imposible.png  orgullo_y_prejuicio.txt
+
+./Infantiles:
+El_juego_del_miedo.xls  Intenzamente.txt  Rapido_y_furioso.pdf  Titanic.jpg
+
+./Romanticas:
+annabelle.js  la_mascara.js  los_vengadores.js  pocahontas.jog
+
+./Terror:
+La_dama_y_el_bagavundo.png  que_paso_ayer.pdf  we_will_rock_you.js  Yo_antes_de_ti.cls
+
+Ramiro@LAPTOP-SIUTO306 MINGW64 ~/Desktop/DigitalHouse/Peliculas/terror
+$ cd ../
+
+Ramiro@LAPTOP-SIUTO306 MINGW64 ~/Desktop/DigitalHouse
+$ mkdir peliculas/romanticas/prueba
+
+Ramiro@LAPTOP-SIUTO306 MINGW64 ~/Desktop/DigitalHouse
+$ cd peliculas/romanticas
+
+Ramiro@LAPTOP-SIUTO306 MINGW64 ~/Desktop/DigitalHouse/peliculas/romanticas
+$ ls
+annabelle.js  la_mascara.js  los_vengadores.js  pocahontas.jog  prueba
+
+Ramiro@LAPTOP-SIUTO306 MINGW64 ~/Desktop/DigitalHouse/Peliculas/romanticas
+$ mkdir ../accion/prueba2
+
+Ramiro@LAPTOP-SIUTO306 MINGW64 ~/Desktop/DigitalHouse/Peliculas/romanticas
+$ ls
+annabelle.js  la_mascara.js  los_vengadores.js  pocahontas.jog  prueba
+
+Ramiro@LAPTOP-SIUTO306 MINGW64 ~/Desktop/DigitalHouse/Peliculas/romanticas
+$ cd ../
+
+Ramiro@LAPTOP-SIUTO306 MINGW64 ~/Desktop/DigitalHouse/Peliculas
+$ cd accion
+
+Ramiro@LAPTOP-SIUTO306 MINGW64 ~/Desktop/DigitalHouse/Peliculas/accion
+$ ls
+cars.jpg  diario_de_una_pasion.js  el_hexorcista.xls  prueba2  smooth_criminal.txt
+
+
+

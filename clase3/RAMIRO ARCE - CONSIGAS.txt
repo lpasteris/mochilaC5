@@ -1,0 +1,9 @@
+¿Se pueden crear las carpetas del punto 2 en un solo comando? En caso que la respuesta sea positiva escribir el comando
+Ramiro@LAPTOP-SIUTO306 MINGW64 ~/Desktop/DigitalHouse
+$ mkdir Peliculas Peliculas/Infantiles Peliculas/Accion Peliculas/Terror Peliculas/Comedia Peliculas/Romanticas
+
+
+
+¿Se pueden crear los archivos del punto 3 en un solo comando? En caso que la respuesta sea positiva escribir el comando
+Ramiro@LAPTOP-SIUTO306 MINGW64 ~/Desktop/DigitalHouse/Peliculas/Infantiles
+$ touch Intenzamente.txt El_juego_del_miedo.xls Rapido_y_furioso.pdf Titanic.jpg
