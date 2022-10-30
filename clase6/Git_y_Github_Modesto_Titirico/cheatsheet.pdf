@@ -1,0 +1,20 @@
+Comandos de git en windows
+[git init] Crea el repositorio de la carpeta.
+[git config --global user.name "username"] Añade el nombre para todos los proyectos que inicie un repositorio con git init.
+[git config --global user.email "email"] Añade el email para todos los proyectos que inicien un repositorio con git init.
+[git add (Archivo)] Añade el archivo al repositorio local.
+[git add .] Añade todos los archivos de la carpeta al repositorio local.
+[git status] Te muestra el estado de los archivos, si estan o no añadidos.
+[git commit -m "comentario/mensaje"] Guardará todos los cambio hechos en la staging area.
+[git log] Te muestra el historial de cambios.
+[git remote add origin "url"] Vincula el repositorio local con el servicio remoto en github.
+[git remove -v] Verificamos si esta vinculado con el repo en github.
+[git push origin main] Sube los archivos del repositorio local a la zona remota.
+[git pull origin main] Actualiza el repositorio local a partir del repositorio remoto.
+[git clone "url"] Crea una copia de un proyecto remoto.
+[git branch --ls] Lista todas las ramas existentes.
+[git branch -D ramita] Este elimina la rama llamada ramita aun que no haya sido fusionada con la rama main.
+[git branch -d ramita] Este elimina la rama llamada ramita, siempre y cuando haya sido fusionada con la rama main.
+[git checkout ramita] Nos pasamos de rama "Main" a la rama que creamos anteriormente como lo es "ramita".
+[git push origin ramita] Sube los cambios a la rama especifica, en nuestro caso es ramita.
+[git pull origin ramita] Descargamos los cambios hechos en la rama especifica, en nuestro caso es ramita.
