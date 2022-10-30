@@ -1,0 +1,20 @@
+Comandos de gitbash:
+.mkdir: crear directorio
+.touch: crear archivo
+.cd: dirigirnos a una ubicacion
+.git init: crear repositorio local
+.git status: ver estado del repositorio
+.git add: añdir archivos al repositorio
+.git log: ver commits
+.rm: borrar archivos
+.rm -r: borrar directorios
+.mv; mover archivos/renombrarlos
+.git config user.name: añdir mi nombre al repositorio
+.git config user.email: añdir mi email al repositorio
+.git remote add origin: sincronizar repositorio local con repositorio remoto
+.git push: subir nuestros archivos a la nube (requiere "-u" en la primera vez)
+.git branch: crear rama
+.git branch -m: renombrar rama
+.git merge: conectar ramas
+,git clone: descargar copia del contenido del repositorio remoto, en caso de no tener ninguna parte de este
+.git pull: actualizar contenido del repositorio local con el del repositorio remoto, en caso de contar con una version antigua de lo que se encuentre en la nube
