@@ -1,0 +1,10 @@
+9)a. Si Se pueden crear las carpetas del punto 2 en un solo comando, seria
+"$mkdir DH/Peliculas/Infantiles DH/Peliculas/Accion DH/Peliculas/Terror
+DH/Peliculas/Comedia DH/Peliculas/Romanticas"
+
+b.Si se puede, suponiendo que nos paremos desde la carpeta "Infantiles" el
+comando seria el siguiente, "$touch Intensamente.txt El_juego_del_miedo.xls
+rapidoyfurioso.pdf Titanic.jpg"
+
+c."mkdir Peliculas/Romanticas/Prueba"
+
