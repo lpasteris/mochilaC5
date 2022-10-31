@@ -1,0 +1,27 @@
+
+Validando el Resultado
+
+8: Una vez realizada la actividad deberemos corroborar el resultado obtenido, ubicándonos en la carpeta peliculas y utilizando el comando: ls -R
+
+
+9:Si el resultado coincide con la plantilla guía de la diapositiva anterior resolver las siguientes preguntas 
+   *¿Se pueden crear las carpetas del punto 2 en un solo comando? En caso que la respuesta sea positiva escribir el comando
+   
+     Si, es posible crear varias carpetas con un solo comando con mkdir
+        mkdir Peliculas Peliculas/Infantiles Peliculas/Accion Peliculas/Terror Peliculas/Comedia Peliculas/Romanticas
+
+
+   *¿Se pueden crear los archivos del punto 3 en un solo comando? En caso que la respuesta sea positiva escribir el comando
+
+     Si, es posible crear varios archivos en un solo comando estando en la Carpeta Peliculas, usando el comando touch:
+        touch Infantiles/Intezamente.txt Infantiles/"El juego del miedo".xls Infantiles/"Rapido y furioso".pdf Infantiles/Titanic.jpg
+       
+   *Estando ubicados en la carpeta DH crear una carpeta llamada Prueba dentro de la carpeta Romanticas en un solo comando y escribirlo aquí. 
+   En mi caso estoy ubicado en la Carpeta modestodh. 
+    Seria asi el Comando:
+
+        mkdir Peliculas/Romanticas/prueba
+
+   *Estando ubicados en la carpeta Romanticas crear una carpeta llamada Prueba2 dentro de la carpeta Accion
+        mkdir ../Accion/prueba2
+     
