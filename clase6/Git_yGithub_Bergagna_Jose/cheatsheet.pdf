@@ -1,0 +1,24 @@
+Inicializar un nuevo repositorio
+    git init
+Estado de nuestros archivos
+    git status
+Añadir un archivo a Staging
+    git add "nombre del archivo"
+    git add . (añade todos los archivos)
+Guardar los archivos en el repositorio local
+    git commit -m "nombre del commit"
+Quitar archivos del Staged o devolverlos a su estado anterior
+    git reset head
+Eliminar un archivo del directorio de trabajo
+    git rm
+    git rm -f
+Cambiar de una rama a otra
+    git checkout "nombre de la rama"
+Copiar el ultimo commit a esta rama    
+    git branch "nombre de la rama"
+Copiar un repositorio existente
+    git clone "url del directorio"
+Cargar archivos a GitHub
+    git push origin "nombre de la rama"
+Descargar archivos de GitHub
+    git clone "url del repositorio"
