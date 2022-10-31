@@ -1,0 +1,4 @@
+1-El inventor o desarrollador fue Linus Trovalds. Se creeo con el fin de resolver un problema con el antiguo gestor de versiones de linux beatkeeper. Dicen que lo desarrollo en una semana :).
+2- Git hub es de microsoft. El motivo de la compra, bussines. Ademas del evidente aprovechamiento de los miles de codigos que pueden utilizar para sacar informacion de necesidades de consumidores. 
+3-Si, con la app de github.
+
