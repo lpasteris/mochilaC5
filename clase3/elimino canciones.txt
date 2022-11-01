@@ -1,0 +1,13 @@
+
+jctriventi@IT-JCTRIVENTI-01 MINGW64 ~/desktop/peliculas (main)
+$ rm terror/we_will_rock_you.js
+
+jctriventi@IT-JCTRIVENTI-01 MINGW64 ~/desktop/peliculas (main)
+$ rm yo_antes_que_ti.xls
+rm: cannot remove 'yo_antes_que_ti.xls': No such file or directory
+
+jctriventi@IT-JCTRIVENTI-01 MINGW64 ~/desktop/peliculas (main)
+$ rm terror/yo_antes_que_ti.xls
+
+jctriventi@IT-JCTRIVENTI-01 MINGW64 ~/desktop/peliculas (main)
+$

@@ -1,0 +1,9 @@
+jctriventi@IT-JCTRIVENTI-01 MINGW64 ~/desktop/peliculas/infantiles (main)
+$ mv rapido_y_furioso.pdf /accion
+
+jctriventi@IT-JCTRIVENTI-01 MINGW64 ~/desktop/peliculas/infantiles (main)
+$ 
+
+
+
+MISMO PROCESO LO REPETI CON LOS DEMAS ARCHIVOS
