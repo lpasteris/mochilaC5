@@ -1,0 +1,10 @@
+9.1) si se puede, estando ubicado en DH seria: mkdir Peliculas/Infantiles Peliculas/Accion Peliculas/Terror
+Peliculas/Comedia Peliculas/Romanticas
+
+9.2) si se puede, ubicado en infantiles seria: touch intensamente.txt "El juego del miedo.xls" 
+"Rapido y furioso.pdf" titanic.jpg
+
+9.3)mkdir Peliculas/Romantica/Prueba
+
+9.4) $ mkdir ../Accion/Prueba2
+
