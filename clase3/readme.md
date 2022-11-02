@@ -1,0 +1,1 @@
+Linus Torvalds fue el creador de git,  a modo de facilitar el trabajo en equipo, controlar las versiones del mismo y poder ramificar proyectos. 
