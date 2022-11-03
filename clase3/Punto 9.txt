@@ -1,0 +1,6 @@
+a- mkdir Infantiles Accion Terror Comedia Romanticas
+b- touch Intenzamente.txt El\ juego\ del\ miedo.xls Rapido\ y\ furioso.pdf Titanic.jpg
+	Alternativamente:
+	touch Intenzamente.txt "El juego del miedo.xls" "Rapido y furioso.pdf" Titanic.jpg
+c- mkdir Películas/Romanticas/Prueba
+d- mkdir ../Accion/Prueba2

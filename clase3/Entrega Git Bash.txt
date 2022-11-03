@@ -1,0 +1,113 @@
+Andy@Andy MINGW64 ~/desktop/Digital House/Actividades/Act Clase 3/dh
+$ mkdir Películas
+
+Andy@Andy MINGW64 ~/desktop/Digital House/Actividades/Act Clase 3/dh
+$ ls
+Películas/
+
+Andy@Andy MINGW64 ~/desktop/Digital House/Actividades/Act Clase 3/dh
+$ cd Películas/
+
+Andy@Andy MINGW64 ~/desktop/Digital House/Actividades/Act Clase 3/dh/Películas
+$ mkdir Infantiles Accion Terror Comedia Romanticas
+
+Andy@Andy MINGW64 ~/desktop/Digital House/Actividades/Act Clase 3/dh/Películas
+$ touch Infantiles/Intenzamente.txt Infantiles/El\ juego\ del\ miedo.xls
+
+Andy@Andy MINGW64 ~/desktop/Digital House/Actividades/Act Clase 3/dh/Películas
+$ ls
+Accion/  Comedia/  Infantiles/  Romanticas/  Terror/
+
+Andy@Andy MINGW64 ~/desktop/Digital House/Actividades/Act Clase 3/dh/Películas
+$ cd Infantiles/
+
+Andy@Andy MINGW64 ~/desktop/Digital House/Actividades/Act Clase 3/dh/Películas/Infantiles
+$ ls
+'El juego del miedo.xls'   Intenzamente.txt
+
+Andy@Andy MINGW64 ~/desktop/Digital House/Actividades/Act Clase 3/dh/Películas/Infantiles
+$ touch Rapido\ y\ furioso.pdf
+
+Andy@Andy MINGW64 ~/desktop/Digital House/Actividades/Act Clase 3/dh/Películas/Infantiles
+$ touch Titanic.jpg
+
+Andy@Andy MINGW64 ~/desktop/Digital House/Actividades/Act Clase 3/dh/Películas/Infantiles
+$ cd ../Accion/
+
+Andy@Andy MINGW64 ~/desktop/Digital House/Actividades/Act Clase 3/dh/Películas/Accion
+$ touch Smooth\ criminal.txt
+
+Andy@Andy MINGW64 ~/desktop/Digital House/Actividades/Act Clase 3/dh/Películas/Accion
+$ touch Diario\ de
+
+Andy@Andy MINGW64 ~/desktop/Digital House/Actividades/Act Clase 3/dh/Películas/Accion
+$ rm Diario\ de
+
+Andy@Andy MINGW64 ~/desktop/Digital House/Actividades/Act Clase 3/dh/Películas/Accion
+$ touch Diario\ de\ una\ pasion.js
+
+Andy@Andy MINGW64 ~/desktop/Digital House/Actividades/Act Clase 3/dh/Películas/Accion
+$ touch El\ hexorcista.xls
+
+Andy@Andy MINGW64 ~/desktop/Digital House/Actividades/Act Clase 3/dh/Películas/Accion
+$ touch Cars.jpg
+
+Andy@Andy MINGW64 ~/desktop/Digital House/Actividades/Act Clase 3/dh/Películas/Accion
+$ ls
+ Cars.jpg  'Diario de una pasion.js'  'El hexorcista.xls'  'Smooth criminal.txt'
+
+Andy@Andy MINGW64 ~/desktop/Digital House/Actividades/Act Clase 3/dh/Películas/Accion
+$ cd ../Terror/
+
+Andy@Andy MINGW64 ~/desktop/Digital House/Actividades/Act Clase 3/dh/Películas/Terror
+$ touch La\ dama\ y\ el\ bagavundo.png Yo\ antes\ de\ ti.xls Que\ paso\ ayer.pdf We\ will\ rock\ you.js
+
+Andy@Andy MINGW64 ~/desktop/Digital House/Actividades/Act Clase 3/dh/Películas/Terror
+$ ls
+'La dama y el bagavundo.png'  'Que paso ayer.pdf'  'We will rock you.js'  'Yo antes de ti.xls'
+
+Andy@Andy MINGW64 ~/desktop/Digital House/Actividades/Act Clase 3/dh/Películas/Terror
+$ cd ../Comedia/
+
+Andy@Andy MINGW64 ~/desktop/Digital House/Actividades/Act Clase 3/dh/Películas/Comedia
+$ touch Madagaskar.js Orgullo\ y\ prejuicio.txt IT.xls Mision\ imposible.png
+
+Andy@Andy MINGW64 ~/desktop/Digital House/Actividades/Act Clase 3/dh/Películas/Comedia
+$ ls
+ IT.xls   Madagaskar.js  'Mision imposible.png'  'Orgullo y prejuicio.txt'
+
+Andy@Andy MINGW64 ~/desktop/Digital House/Actividades/Act Clase 3/dh/Películas/Comedia
+$ cd ../Romanticas/
+
+Andy@Andy MINGW64 ~/desktop/Digital House/Actividades/Act Clase 3/dh/Películas/Romanticas
+$ touch Pocahontas.jpg Annabelle.js Los\ vengadores.js La\ mascara.js
+
+Andy@Andy MINGW64 ~/desktop/Digital House/Actividades/Act Clase 3/dh/Películas/Romanticas
+$ ls
+ Annabelle.js  'La mascara.js'  'Los vengadores.js'   Pocahontas.jpg
+
+Andy@Andy MINGW64 ~/desktop/Digital House/Actividades/Act Clase 3/dh/Películas/Romanticas
+$ cd
+
+Andy@Andy MINGW64 ~
+$ cd Desktop//Digital\ House/Actividades/Act\ Clase\ 3/DH/Películas/
+
+Andy@Andy MINGW64 ~/Desktop/Digital House/Actividades/Act Clase 3/DH/Películas
+$ ls -R
+.:
+Accion/  Comedia/  Infantiles/  Romanticas/  Terror/
+
+./Accion:
+ Cars.jpg  'Diario de una pasion.js'  'El hexorcista.xls'  'Smooth criminal.txt'
+
+./Comedia:
+ IT.xls   Madagaskar.js  'Mision imposible.png'  'Orgullo y prejuicio.txt'
+
+./Infantiles:
+'El juego del miedo.xls'   Intenzamente.txt  'Rapido y furioso.pdf'   Titanic.jpg
+
+./Romanticas:
+ Annabelle.js  'La mascara.js'  'Los vengadores.js'   Pocahontas.jpg
+
+./Terror:
+'La dama y el bagavundo.png'  'Que paso ayer.pdf'  'We will rock you.js'  'Yo antes de ti.xls'
