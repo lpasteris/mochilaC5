@@ -1,0 +1,19 @@
+Clonar repositorio
+$ git clone {url}
+Crear nuevo repositorio
+$ git init
+Establecer usuario y mail
+$ git config
+Ver el estado de los archivos
+$ git status
+Agregar archivo
+$ git add
+Hacer un commit
+$ git commit
+Eliminar un archivo
+$ git rm 
+Actualizar repositorio local con el remoto
+$ git pull
+Crear una branch
+$ git branch nuevaBranch
+
