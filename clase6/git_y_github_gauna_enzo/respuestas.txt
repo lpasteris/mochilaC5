@@ -1,0 +1,6 @@
+pregunta 1
+el que invento el sistema de control de version de git fue LINUS TORVALDS 
+pregunta 2
+actualmente Github pertenece a Microsoft.
+pregunta 3
+si, existe la forma de trabajar desde la pagina de Github
