@@ -1,0 +1,89 @@
+jcabral@192 DH % ls
+jcabral@192 DH % mkdir Peliculas
+jcabral@192 DH % cd Peliculas
+jcabral@192 Peliculas % mkdir Infantiles Accion Terror Comedia Romanticas
+jcabral@192 Peliculas % ls
+Accion		Comedia		Infantiles	Romanticas	Terror
+jcabral@192 Peliculas % cd Infantiles
+jcabral@192 Infantiles % touch Intenzamente.txt "El juego del miedo.xls" "Rapido y furioso.pdf" Titanic.jpg
+jcabral@192 Infantiles % ls
+El juego del miedo.xls	Rapido y furioso.pdf
+Intenzamente.txt	Titanic.jpg
+jcabral@192 Infantiles % cd ..
+jcabral@192 Peliculas % ls
+Accion		Comedia		Infantiles	Romanticas	Terror
+jcabral@192 Peliculas % cd Accion
+jcabral@192 Accion % touch "Smooth criminal.txt" "Diario de una pasion.js" "el Hexorcista.xls" cars.jpg
+jcabral@192 Accion % ls
+Diario de una pasion.js	cars.jpg
+Smooth criminal.txt	el Hexorcista.xls
+jcabral@192 Accion % cd ..
+jcabral@192 Peliculas % ls
+Accion		Comedia		Infantiles	Romanticas	Terror
+jcabral@192 Peliculas % cd Terror
+jcabral@192 Terror % ls -r
+jcabral@192 Terror % cd ..
+jcabral@192 Peliculas % ls -r
+Terror		Romanticas	Infantiles	Comedia		Accion
+jcabral@192 Peliculas % cd Terror
+jcabral@192 Terror % ls
+jcabral@192 Terror % touch "La dama y el bagavundo.png" "Yo antes de ti.xls" "Que paso ayer.pdf" "We will rock you.js"
+jcabral@192 Terror % ls
+La dama y el bagavundo.png	We will rock you.js
+Que paso ayer.pdf		Yo antes de ti.xls
+jcabral@192 Terror % ls
+La dama y el bagavundo.png	We will rock you.js
+Que paso ayer.pdf		Yo antes de ti.xls
+jcabral@192 Terror % cd ..
+jcabral@192 Peliculas % cd Comedia
+jcabral@192 Comedia % touch Madagaskar.js "Orgullo y prejuicio.txt" IT.xls "Mision imposible.png"
+jcabral@192 Comedia % ls
+IT.xls			Mision imposible.png
+Madagaskar.js		Orgullo y prejuicio.txt
+jcabral@192 Comedia % cs ..
+zsh: command not found: cs
+jcabral@192 Comedia % cd ..
+jcabral@192 Peliculas % ls
+Accion		Comedia		Infantiles	Romanticas	Terror
+jcabral@192 Peliculas % cd Romanticas
+jcabral@192 Romanticas % touch Pocahontas.jpg Anabelle.js "Los vengadores.js" "La mascara.js" 
+jcabral@192 Romanticas % ls
+Anabelle.js		Los vengadores.js
+La mascara.js		Pocahontas.jpg
+jcabral@192 Romanticas % cd ..
+jcabral@192 Peliculas % ls -R
+Accion		Comedia		Infantiles	Romanticas	Terror
+
+./Accion:
+Diario de una pasion.js	cars.jpg
+Smooth criminal.txt	el Hexorcista.xls
+
+./Comedia:
+IT.xls			Mision imposible.png
+Madagaskar.js		Orgullo y prejuicio.txt
+
+./Infantiles:
+El juego del miedo.xls	Rapido y furioso.pdf
+Intenzamente.txt	Titanic.jpg
+
+./Romanticas:
+Anabelle.js		Los vengadores.js
+La mascara.js		Pocahontas.jpg
+
+./Terror:
+La dama y el bagavundo.png	We will rock you.js
+Que paso ayer.pdf		Yo antes de ti.xls
+jcabral@192 Peliculas % cd ..
+jcabral@192 DH % ls
+Peliculas
+jcabral@192 DH % mkdir Prueba
+jcabral@192 DH % rm -R Prueba
+jcabral@192 DH % ls
+Peliculas
+jcabral@192 DH % mkdir Peliculas/Romanticas/Prueba
+ls%                                                                                jcabral@192 DH % ls
+Peliculas
+jcabral@192 DH % cd Peliculas/Romanticas
+jcabral@192 Romanticas % mkdir ../Accion/Prueba2
+
+
