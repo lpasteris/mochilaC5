@@ -1,0 +1,45 @@
+USER SET UP:
+- Configurar Nombre de usuario
+--> git config --global user.name “[name]”
+- Configurar Email de usuario
+-->git config --global user.email “[email]”
+
+PROJECT SETUP:
+- Inicializar el directri como repositorio git
+-->git init
+- Clonar un repositorio via url
+-->git clone [url]
+
+ARCHIVOS Y CARPETAS:
+- Crear directorio
+--> mkdir
+- Crear archivo
+--> touch
+- Cambiar de directorio
+--> cd
+- Crear repositorio local
+--> git init
+- Ver estado del repositorio
+-->git status
+- Añdir archivos al repositorio
+--> git add
+- Ver commits
+--> git log
+- Borrar archivos
+--> rm 
+- Borrar directorios
+--> rm -r
+- mover archivos/renombrarlos
+-->mv
+
+RAMAS:
+- crear rama
+--> git branch
+- renombrar rama
+--> git branch -m
+- conectar ramas
+--> git merge
+- Clonar repositorio remoto
+--> git clone
+- Actualizar repositorio local a partir del remoto
+--> git pull
