@@ -1,0 +1,72 @@
+
+Usuario@DESKTOP-JGVL4A5 MINGW64 ~
+$ pwd
+/c/Users/Usuario
+
+Usuario@DESKTOP-JGVL4A5 MINGW64 ~
+$ cd desktop
+
+Usuario@DESKTOP-JGVL4A5 MINGW64 ~/desktop
+$ mkdir DH
+
+Usuario@DESKTOP-JGVL4A5 MINGW64 ~/desktop
+$ cd DH
+
+Usuario@DESKTOP-JGVL4A5 MINGW64 ~/desktop/DH
+$ mkdir infantiles accion terror comedia romanticas
+
+Usuario@DESKTOP-JGVL4A5 MINGW64 ~/desktop/DH
+$ cd infantiles
+
+Usuario@DESKTOP-JGVL4A5 MINGW64 ~/desktop/DH/infantiles
+$ touch
+touch: missing file operand
+Try 'touch --help' for more information.
+
+Usuario@DESKTOP-JGVL4A5 MINGW64 ~/desktop/DH/infantiles
+$ touch intenzamente.txt el_juego_del_miedo.xls rapido_y_furioso.pdf titanic.jpg
+
+Usuario@DESKTOP-JGVL4A5 MINGW64 ~/desktop/DH/infantiles
+$ cd accion
+bash: cd: accion: No such file or directory
+
+Usuario@DESKTOP-JGVL4A5 MINGW64 ~/desktop/DH/infantiles
+$ cd ..
+
+Usuario@DESKTOP-JGVL4A5 MINGW64 ~/desktop/DH
+$ cd terror
+
+Usuario@DESKTOP-JGVL4A5 MINGW64 ~/desktop/DH/terror
+$ touch la_dama_y_elvagabundo.png yo_antes_de_ti.xls que_paso_ayer.pdf we_will_rock_you.js
+
+Usuario@DESKTOP-JGVL4A5 MINGW64 ~/desktop/DH/terror
+$ cd ..
+
+Usuario@DESKTOP-JGVL4A5 MINGW64 ~/desktop/DH
+$ cd comedia
+
+Usuario@DESKTOP-JGVL4A5 MINGW64 ~/desktop/DH/comedia
+$ touch madagascar.js orgullo_y_prejuicio.txt it.xls mision_imposible.png 
+
+Usuario@DESKTOP-JGVL4A5 MINGW64 ~/desktop/DH/comedia
+$ cd ..
+
+Usuario@DESKTOP-JGVL4A5 MINGW64 ~/desktop/DH
+$ cd romantica
+bash: cd: romantica: No such file or directory
+
+Usuario@DESKTOP-JGVL4A5 MINGW64 ~/desktop/DH
+$ ls
+accion/  comedia/  infantiles/  romanticas/  terror/
+
+Usuario@DESKTOP-JGVL4A5 MINGW64 ~/desktop/DH
+$ cd romanticas
+
+Usuario@DESKTOP-JGVL4A5 MINGW64 ~/desktop/DH/romanticas
+$ touch pocahontas.jpg annabelle.js los_vengadores.js la_mascara.js
+
+Usuario@DESKTOP-JGVL4A5 MINGW64 ~/desktop/DH/romanticas
+$ cd ..
+
+Usuario@DESKTOP-JGVL4A5 MINGW64 ~/desktop/DH
+$
