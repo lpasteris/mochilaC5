@@ -1,0 +1,8 @@
+A)Git es un proyecto de código abierto maduro, con mantenimiento activo que desarrolló originalmente Linus Torvalds, el famoso creador del kernel del sistema operativo Linux.
+En 2005.Git se ha ideado para posibilitar la ramificación y el etiquetado como procesos de primera importancia (a diferencia de SVN) y las operaciones que afectan a las ramas y las etiquetas 
+(como la fusión o la reversión) también se almacenan en el historial de cambios.
+
+B) Hoy por hoy Github pertenece a microsoft, lo compro en el 2018. La compra de GitHub fue un paso más en la inclinación de Microsoft para enfocarse todo lo posible al desarrollo, haciendo una vez más hincapié 
+en que el núcleo de la empresa lo forman los desarrolladores y nada más.
+
+C) Si, github tiene su aplicacion desktop para crear y administrar los repositorios sin utilizar la linea de comandos.
