@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 git init --> crea un repositorio local
 git add "nombre del archivo" --> agrega el archivo nombrado al repositorio local
 git status --> te informa el estado de los archivos
@@ -16,4 +17,24 @@ git pull origin main  --> sirve para actualizar los archivos del repositorio rem
 git branch --> enumera las ramas de tu repositorio
 git branch "branch" --> crea una nueva rama llamada "branch"
 git branch -d "branch" --> elimina la rama "branch". git evita que eliminemos la rama si esta contiene cambios
+=======
+git init --> crea un repositorio local
+git add "nombre del archivo" --> agrega el archivo nombrado al repositorio local
+git status --> te informa el estado de los archivos
+git commit -m --> commitea un archivo 
+git commit -s --> a este comando agregando un comentario podemos aclarar hasta donde hemos avanzado en el proyecto
+git checkout --> me muevo entre las ramas
+
+git config user.name "mi usuario" -->conectar mi usuario
+git config user.email "mi email" --> conectar mi email
+git remote add origin "url del repositorio remoto" --> conectar mi repositorio local con el remoto 
+git remote -v --para checkear el que haya funcionado el comando "git remote add origin"
+
+git clone "url del repositorio remoto" --> crea una copia exacta en la computadora de los archivos existentes en el repositorio remoto 
+git pull origin main  --> sirve para actualizar los archivos del repositorio remoto a nuestra computadora
+
+git branch --> enumera las ramas de tu repositorio
+git branch "branch" --> crea una nueva rama llamada "branch"
+git branch -d "branch" --> elimina la rama "branch". git evita que eliminemos la rama si esta contiene cambios
+>>>>>>> 2129eda74cbe91720e063884c37339b630e9c48c
 git branch -D "branch" --> elimina la rama aunque esta contenga cambios 

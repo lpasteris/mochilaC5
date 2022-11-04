@@ -1,5 +1,12 @@
+<<<<<<< HEAD
 1)El sistema de control de versiones Git fue creado por Linus Torvalds para realizar un seguimiento de los cambios en los archivos de una computadora, incluida la coordinación del trabajo de varias personas en archivos compartidos en repositorios de código.
 
 2)El 4 de junio de 2018, Microsoft adquirió GitHub para continuar operando de forma independiente y brindar una plataforma abierta para todos los desarrolladores e industrias.
 
+=======
+1)El sistema de control de versiones Git fue creado por Linus Torvalds para realizar un seguimiento de los cambios en los archivos de una computadora, incluida la coordinación del trabajo de varias personas en archivos compartidos en repositorios de código.
+
+2)El 4 de junio de 2018, Microsoft adquirió GitHub para continuar operando de forma independiente y brindar una plataforma abierta para todos los desarrolladores e industrias.
+
+>>>>>>> 2129eda74cbe91720e063884c37339b630e9c48c
 3) Aunque hay muchas formas de usar Github, la terminal es el único lugar para trabajar.
