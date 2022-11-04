@@ -1,0 +1,29 @@
+Iniciamos GIT en la carpeta donde esta el proyecto: git init
+
+Clonamos el repositorio de github o bitbucket: git clone <url>
+
+Añadimos todos los archivos para el commit: git add .
+
+Hacemos el primer commit: git commit -m "Texto que identifique por que se hizo el commit"
+
+subimos al repositorio: git push origin master
+
+Añadimos todos los archivos con la extensión especificada: git add *.txt
+
+Crea un branch: git branch <nameBranch>
+
+Lista los branches: git branch
+
+Comando -d elimina el branch y lo une al master: git branch -d <nameBranch>
+
+Elimina sin preguntar: git branch -D <nameBranch>
+
+Busca los cambios nuevos y actualiza el repositorio: git pull origin <nameBranch>
+
+Cambiar de branch: git checkout <nameBranch/tagname>
+
+Une el branch actual con el especificado: git merge <nameBranch>
+
+Borrar un archivo del repositorio: git rm <archivo> 
+
+
