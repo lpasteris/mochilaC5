@@ -1,0 +1,73 @@
+Andres@DESKTOP-F3V1OK3 MINGW64 ~/desktop/dh
+$ ls
+accion/  comedia/  infantiles/  peliculaPrueba/  Peliculas/  repaso_clase1y2/  romanticas/  terror/
+
+Andres@DESKTOP-F3V1OK3 MINGW64 ~/desktop/dh
+$ cd peliculas
+
+Andres@DESKTOP-F3V1OK3 MINGW64 ~/desktop/dh/peliculas
+$ ls
+accion/  comedia/  infantiles/  romanticas/  terror/
+
+Andres@DESKTOP-F3V1OK3 MINGW64 ~/desktop/dh/peliculas
+$ cd accion
+
+Andres@DESKTOP-F3V1OK3 MINGW64 ~/desktop/dh/peliculas/accion
+$ ls
+cars.jpg  diario_de_una_pasion.js  el_hexorcista.xls  smooth_criminal.txt
+
+Andres@DESKTOP-F3V1OK3 MINGW64 ~/desktop/dh/peliculas/accion
+$ cd ../
+
+Andres@DESKTOP-F3V1OK3 MINGW64 ~/desktop/dh/peliculas
+$ cd infantiles 
+
+Andres@DESKTOP-F3V1OK3 MINGW64 ~/desktop/dh/peliculas/infantiles
+$ ls
+el_juego_del_miedo.xls  intensamente.txt  rapido_y_furioso.pdf  titanic.jpg
+
+Andres@DESKTOP-F3V1OK3 MINGW64 ~/desktop/dh/peliculas/infantiles
+$ cd ../
+
+Andres@DESKTOP-F3V1OK3 MINGW64 ~/desktop/dh/peliculas
+$ cd accion
+
+Andres@DESKTOP-F3V1OK3 MINGW64 ~/desktop/dh/peliculas/accion
+$ ls
+cars.jpg  diario_de_una_pasion.js  el_hexorcista.xls  smooth_criminal.txt
+
+Andres@DESKTOP-F3V1OK3 MINGW64 ~/desktop/dh/peliculas/accion
+$ cd ../
+
+Andres@DESKTOP-F3V1OK3 MINGW64 ~/desktop/dh/peliculas
+$ cd terror
+
+Andres@DESKTOP-F3V1OK3 MINGW64 ~/desktop/dh/peliculas/terror
+$ ls
+la_dama_y_el_bagavundo.png  que_paso_ayer.pdf  we_will_rock_you.js  yo_antes_de_ti.xls
+
+Andres@DESKTOP-F3V1OK3 MINGW64 ~/desktop/dh/peliculas/terror
+$ cd ../
+
+Andres@DESKTOP-F3V1OK3 MINGW64 ~/desktop/dh/peliculas
+$ cd comedia
+
+Andres@DESKTOP-F3V1OK3 MINGW64 ~/desktop/dh/peliculas/comedia
+$ ls
+it.xls  madagascar.js  mision_imposible.png  orgullo_y_prejuicio.txt
+
+Andres@DESKTOP-F3V1OK3 MINGW64 ~/desktop/dh/peliculas/comedia
+$ cd ../
+
+Andres@DESKTOP-F3V1OK3 MINGW64 ~/desktop/dh/peliculas
+$ cd romanticas
+
+Andres@DESKTOP-F3V1OK3 MINGW64 ~/desktop/dh/peliculas/romanticas
+$ ls
+anabelle.js  la_  los_vengadores.js  mascara.js  pocahontas.jpg
+
+Andres@DESKTOP-F3V1OK3 MINGW64 ~/desktop/dh/peliculas/romanticas
+$ cd ../
+
+Andres@DESKTOP-F3V1OK3 MINGW64 ~/desktop/dh/peliculas
+$
