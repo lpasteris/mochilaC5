@@ -1,9 +1,0 @@
-Andres@DESKTOP-F3V1OK3 MINGW64 ~/desktop/dh/peliculaPrueba
-$ cd infantiles2
-
-Andres@DESKTOP-F3V1OK3 MINGW64 ~/desktop/dh/peliculaPrueba/infantiles2
-$ touch intenzamente2.txt  el_juego_del_miedo2.xls  rapido_y_furioso2.pdf titanic2.pdf 
-
-Andres@DESKTOP-F3V1OK3 MINGW64 ~/desktop/dh/peliculaPrueba/infantiles2
-$ ls
-el_juego_del_miedo2.xls  intenzamente2.txt  rapido_y_furioso2.pdf  titanic2.pdf
