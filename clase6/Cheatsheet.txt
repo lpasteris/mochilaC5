@@ -1,0 +1,46 @@
+Cheatsheet 
+
+Clonar un repositorio existente
+$ git clone ssh://usuario@domain.com/repo.git
+
+Crear un nuevo repositorio local
+$ git init 
+
+Visualizar ramas 
+$ git branch
+
+Crear una nueva rama 
+$ git branch <nombre_de_la_rama>
+
+Moverse a una rama 
+$ git checkout <nombre_de_la_rama>
+
+Añadir archivos
+$ git add .
+
+Obtener información sobre la rama actual 
+$ git status
+
+Realziar un commit
+$ git commit -m "mensaje de identificación"
+
+Hacer push a rama main 
+$ git push origin main 
+
+Hacer push a otra rama 
+$ git push origin <nombre_de_la_rama>
+
+Obtener actualizaciones de repositorio, rama específica
+$ git pull  origin <nombre_de_la_rama>
+
+
+
+
+
+
+
+
+
+
+
+
