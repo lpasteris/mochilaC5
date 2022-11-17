@@ -1,6 +1,0 @@
-1)El sistema de control de versiones lo inventó Linus Torvalds, pensando en la confiabilidad, compatibilidad y eficiencia de aplicaciones cuando estas tienen un gran número de archivos de código fuente. De esta manera se puede trabajar de manera más cómoda y más segura en conjunto sobre un mismo proyecto. 
-
-2)GitHub pertenece a Microsoft, haciendo hincapié en que el núcleo de la empresa son los trabajadores y siguiendo con la ideología de Git de código abierto para que esté disponible para todos los desarrolladores que deseen utilizarlo. 
-
-3)El sistema GIT de manera local se utiliza desde la terminal, GitHub por su parte tiene su página web donde se pueden crear y modificar repositorios remotos. Si bien existe la posibilidad de utilizar Git de manera remota desde Github, esta fue tecnologia creada para ser utilizada desde la consola o línea de comandos (y de esa manera de la que se extrae el mayot potencial). Tener en cuenta que se debe utilizar con el lenguaje de consola “Bash”, el mismo se encuentra de manera nativa en sistemas Linux y MacOs pero si deseamos utilizar git en windows debemos descargar alguna terminal para utilizar el lenguaje Bash(esta puede ser la GitBash).
-	
