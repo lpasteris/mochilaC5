@@ -1,0 +1,29 @@
+8)Una vez realizada la actividad deberemos corroborar el resultado obtenido, ubicándonos en la carpeta peliculas y utilizando el comando: ls -R
+raul_@DESKTOP-7N5NFSP MINGW64 /h/Mi unidad/Introduccion a la Informatica/mochilaC5/clase3/peliculas (RaulBarroso1994)
+$ ls -R
+.:
+Accion/  Comedia/  Infantiles/  Romanticas/  Terror/
+
+./Accion:
+ Cars.jpg  'Diario de una pasion.js'  'El hexorcista.xls'  'Smooth Criminal.txt'
+
+./Comedia:
+ IT.xls   Madagaskar.js  'Mision Imposible.png'  'Orgullo y prejuicio.txt'
+
+./Infantiles:
+'El Juego del miedo.xls'   Intenzamente.txt  'Rapido y Furioso.pdf'   Titatic.jpg
+
+./Romanticas:
+ Annabelle.js  'La mascara.js'  'Los Vengadores.js'   Pocahontas.jpg
+
+./Terror:
+'La dama y el bagavundo.png'  'Que paso ayer.pdf'  'We will rock you.js'  'Yo antes de ti.xls'
+9)Si el resultado coincide con la plantilla guía de la diapositiva anterior resolver las siguientes preguntas 
+¿Se pueden crear las carpetas del punto 2 en un solo comando? En caso que la respuesta sea positiva escribir el comando
+Si se puede. mkdir Accion Comedia Infatiles Romanticas Terror
+¿Se pueden crear los archivos del punto 3 en un solo comando? En caso que la respuesta sea positiva escribir el comando
+Si se puede. touch Intensamente.txt "El Juego del Medio.xls" "Rapido y Furioso.pdf" Titanic.jpg
+Estando ubicados en la carpeta DH crear una carpeta llamada Prueba dentro de la carpeta Romanticas en un solo comando y escribirlo aquí. 
+mkdir Peliculas/Romanticas/Prueba
+Estando ubicados en la carpeta Romanticas crear una carpeta llamada Prueba2 dentro de la carpeta Accion
+cd ..Accion/Prueba2
