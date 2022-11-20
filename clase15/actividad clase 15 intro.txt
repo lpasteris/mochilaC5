@@ -1,0 +1,8 @@
+
+2-VirtualBox soporta los 2 tipos de maquina virtual que existen: Maquina Virtual de Procesos y Maquina Virtual de Sistema Operativo
+
+
+3-Un hipervisor, también conocido como monitor de máquinas virtuales es una capa de virtualización de 
+
+4-Las máquinas virtuales de procesos se ejecutan en un mismo servidor para ejecutar varias instancias de la misma aplicación de forma separada. De ese modo, si una de ellas falla, no afectará al funcionamiento del resto.
+
