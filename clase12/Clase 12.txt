@@ -1,0 +1,13 @@
+1)El usuario root, el usuario cuyo nombre de inicio es "root", tiene características especiales: Creado durante la instalación: el usuario root es el único usuario predeterminado 
+que crea el programa de instalación. La contraseña predeterminada es "root".
+
+2)Se supone que no debes añadir una contraseña para la cuenta de root. Tenemos algo llamado el mecanismo sudo para manejar eso. En su lugar, se añaden usuarios a la cuenta admin cuenta. Todos esos usuarios pueden entonces 
+ejecutar comandos o programas como root ejecutando sudo command para los comandos de terminal o gksu command para que las aplicaciones GUI se ejecuten como root, como gksu gcalctool aunque ese ejemplo obviamente no tiene sentido)
+
+3)Un demonio en Linux, y de manera general en cualquier sistema tipo UNIX, es un proceso que se ejecuta en segundo plano y es autónomo, de manera que no necesita interacción por parte de un usuario del sistema para arrancar y funcionar. 
+Los servidores web Apache o Nginx están controlados por demonios, por ejemplo.
+
+4)El comando ps puede listar todos los procesos que se están ejecutando en un sistema Linux con la opción -e. La salida de ps nos muestra todos los procesos que se están ejecutando, su respectivo 
+ID de proceso (abreviado como PID) y el TTY (interfaz del terminal en el que se está ejecutando el proceso), para ver los demonios 
+ tan solo tenemos que abrir una terminal y ejecutar el comando systemctl status seguido del nombre del proceso.
+
