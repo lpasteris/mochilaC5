@@ -1,0 +1,15 @@
+a)¿Por qué un lenguaje de programación sólo puede utilizarse en algunos sistemas operativos y en otros no?. 
+La utilizacion de un lenguaje de programacion en un sistema operativo depende de si en este existe un interprete
+y un compilador compatible con este lenguaje.
+b)¿Qué tipo de máquina virtual soporta virtualBox?. 
+-Memoria RAM de 2MB para windows 7; 4GB para Windows 8 o Windowos 10.Aunque lo aconsejable empieza por el doble de lo indicado.
+-Espacio libre en disco de minimo 90MB para cada maquina virtual. Pero cualquier virtualizacion de un sistema operativo minimamente moderno va a ocupar 1GB; de ahi para arriba.
+-Procesador Intel o AMD con soporte de virtualizacion.Para que la maquina vaya minimamente fluida se recomienda procesadores de mas de dos nucleos.
+-Es posible que tengan que manipular en sus configuraciones de arranque BIOS/UEFi para habilitar las funciones de virtualizacion del procesador.
+c)¿Qué función cumple el hypervisor en la virtualización?
+El hypersor es aquel que le brinda el hardware necesario para su funcionamiento a la maquina virtual.
+Lo toma de la maquina huesped que tiene instalada la maquina virtual, y hace que la o las maquinas virtuales utilicen sus recursos de hardware.
+
+d)Si tengo más de una máquina virtual instalada, y una se rompe, ¿esto afecta a las demás? ¿por qué?
+Esto no afecta a las demas maquinas virtuales ya que cada una funciona con su sistema operativo propio(inclusive puede ser de diferentes marcas o empresas, windows, linux, etc).
+Cada una de ellas esta aislada de las demas.
