@@ -1,0 +1,49 @@
+¿Por qué un lenguaje de programación sólo puede utilizarse en algunos sistemas operativos y en otros no?
+
+Porque un lenguaje de programación compila a lenguaje ensamblador el cual es ejecutado
+por el sistema operativo, este lenguaje ensamblador depende de 2 cosas, de la arquitectura
+del procesador y la interpretación que le de el sistema operativo. Si en la computadora
+cambia la arquitectura del procesador el lenguaje ensamblador es totalmente diferente y no
+va a correr
+
+¿Qué tipo de máquina virtual soporta virtualBox?
+
+VirtualBox es una aplicación que sirve para hacer máquinas virtuales con
+instalaciones de sistemas operativos. Esto quiere decir que si tienes un
+ordenador con Windows, GNU/Linux o incluso macOS, puedes crear una
+máquina virtual con cualquier otro sistema operativo para utilizarlo dentro del que
+estés usando.
+
+¿Qué función cumple el hypervisor en la virtualización?
+
+Un hipervisor, conocido también como monitor de máquina virtual (VMM), es un
+software que crea y ejecuta máquinas virtuales (VM) y que, además, aísla su sistema
+operativo y recursos de las máquinas virtuales y permite crearlas y gestionarlas.
+
+Cuando el sistema de hardware físico se usa como hipervisor, se denomina "host", y
+las múltiples máquinas virtuales que utilizan sus recursos se denominan "guests".
+
+El hipervisor utiliza los recursos, como la CPU, la memoria y el almacenamiento,
+como un conjunto de medios que pueden redistribuirse fácilmente entre los guests
+actuales o en las máquinas virtuales nuevas.
+
+Todos los hipervisores necesitan algunos componentes a nivel del sistema operativo
+(por ejemplo, el administrador de memoria, el programador de procesos, la pila de
+entrada o salida (E/S), los controladores de dispositivos, el administrador de
+seguridad, la pila de red y más) para ejecutar las máquinas virtuales.
+
+El hipervisor proporciona a cada máquina virtual los recursos que se le habían
+asignado, y gestiona la programación de ellos en función de los recursos físicos. El
+hardware físico sigue efectuando las operaciones, por lo que la CPU aún ejecuta las
+instrucciones de la CPU según lo solicitado por las máquinas virtuales; por ejemplo,
+mientras el hipervisor gestiona la programación.
+
+Si tengo más de una máquina virtual instalada, y una se rompe, ¿esto afecta a las demás? ¿por qué?
+
+Las máquinas virtuales de procesos se ejecutan en un mismo servidor para ejecutar varias instancias de la misma
+aplicación de forma separada. De ese modo, si una de ellas falla, no afectará al funcionamiento del resto.
+
+Esta solución es habitual en los servicios de alojamiento web y almacenamiento en la nube en las que se
+optimizan los costes de los servidores ejecutando una máquina virtual para alojar los archivos de usuarios
+distintos. De ese modo, en lugar de necesitar un servidor para cada uno de los usuarios, todos comparten el
+mismo hardware dividido en varias máquinas virtuales aisladas entre sí.
