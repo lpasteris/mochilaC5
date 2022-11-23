@@ -1,0 +1,14 @@
+1- Porque un lenguaje de programacion solo puede utilizarse en algunos sistemas operativos y en otros no
+2- que tipo de maquina virtual soporta VirtualBox
+3- que funcion cumple el hypervisor en la virtualizacion
+4- si tengo mas de una maquina virtual instalada y una se rompe, esta afecta a la demas, porque?
+
+1- Los lenguajes de programacion usan diferentes normas o bases y se utilzan para controlar como se comporta una maquina, se diseña, se codifica, se escribe, se aprueba y se depura un codigo basico para las computadoras y se clasifican de 2 tipos:
+- Bajo nivel: son utilziazdos para controla el hardware del ordenador y depende de la maquina y no se pueden utilzar en otras maquinas y al utilziar ceros, unos y abreviaturas son mas complicados por eso lo utilizan practicamente los creadores de las maquinas.
+- Alto Nivel: son lenguajes mas parecidos al lenguaje natural humano y no depende de la maquina donde son los mas usados de los programadores.
+
+2- soporta ordenadores con sistemas operativos Windows, GNU/ Linux o incluso macOS, se puede crear maquinas virtuales con cualquier sistema operativo.
+
+3- El hipervisosr utiliza los recursos como la CPU, memoria y el almacenamiento y proporciona a cada maquina virtual los recursos que se le habian asignado y gestiona la programacion de ellos en funcion de los recursos fisicos.
+
+4- las instalaciones se hacen bajo un Kernel en concreto porque lo que cualquier actualizacion del mismo se "rompe" la instalacion.
