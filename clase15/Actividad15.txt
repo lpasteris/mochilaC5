@@ -1,0 +1,25 @@
+﻿-¿Por qué un lenguaje de programación sólo puede utilizarse 
+en algunos sistemas operativos y en otros no?
+
+Los lenguajes de programacion usan diferentes normas o bases y se utilzan para controlar como se comporta una maquina, se diseña, se codifica, se escribe, se aprueba y se depura un codigo basico para las computadoras y se clasifican de 2 tipos:
+- Bajo nivel: son utilziazdos para controla el hardware del ordenador y depende de la maquina y no se pueden utilzar en otras maquinas y al utilziar ceros, unos y abreviaturas son mas complicados por eso lo utilizan practicamente los creadores de las maquinas.
+- Alto Nivel: son lenguajes mas parecidos al lenguaje natural humano y no depende de la maquina donde son los mas usados de los programadores.
+
+¿Qué tipo de máquina virtual soporta virtualBox?. 
+VirtualBox soporta los 2 tipos de maquina virtual que existen: 
+Maquina Virtual de Procesos y Maquina Virtual de Sistema Operativo
+
+-¿Qué función cumple el hypervisor en la virtualización?
+Un hipervisor, también conocido como monitor de máquinas virtuales 
+es una capa de virtualización de software que permite crear y ejecutar 
+varias máquinas virtuales dentro de un único servidor, así como 
+diferentes sistemas operativos. El hipervisor se encarga de separar 
+los recursos de la máquina virtual del sistema de hardware y de 
+distribuirlos adecuadamente.
+
+
+-Si tengo más de una máquina virtual instalada, y una se rompe, 
+¿esto afecta a las demás? ¿por qué?
+Las máquinas virtuales de procesos se ejecutan en un mismo servidor 
+para ejecutar varias instancias de la misma aplicación de forma separada. 
+De ese modo, si una de ellas falla, no afectará al funcionamiento del resto.
