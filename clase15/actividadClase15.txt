@@ -1,0 +1,4 @@
+-Los lenguajes de programacion estan pensados y crados de diferentes maneras y para diferentes propositos. Asi mismo con como entienden los sistemas operativos los lenguajes de programacion, ya que no funcionan de la misma manera diferentes sistemas operativos. Un ejemplo puede ser SWIFT para macOS (apple), este lenguaje de programacion es exclusivo para usarse en mac y solo este sistema operativo lo entiende
+-VirtualBox soporta GNU/Linux, Mac OS X, OS/2 Warp, Genode, Windows y Solaris/OpenSolaris
+-El hypervisor es una herramienta que funciona como el administrador de recursos de la maquina virtual, ya que separa los recursos de hardware que se prestaran desde la maquina fisica a la virtual para que esta funcione correctamente.
+-No deberia romperse, las maquinas virtuales son independientes entre si, si el motivo de la ruptura es relacionado a al sistema operativo o hardware donde se alojan esas maquinas virtuales, en ese caso podrian haber daños en todas.
