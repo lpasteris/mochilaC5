@@ -1,0 +1,4 @@
+1.Cualquier lenguaje de programación puede usarse en un sistema siempre y cuando haya un intérprete o compilador (segun corresponda al lenguaje en cuestión) si es que deseas programar en esa máquina con ese sistema operativo
+2. GNU/Linux, Mac OS X, OS/2 Warp, Genode,​ Windows y Solaris/OpenSolaris, y dentro de ellos es posible virtualizar los sistemas operativos FreeBSD, GNU/Linux, OpenBSD, OS/2 Warp, Windows, Solaris, MS-DOS, Genode.
+3. Un hipervisor permite que un ordenador host preste soporte a varias máquinas virtuales invitadas mediante el uso compartido virtual de sus recursos, como la memoria y el procesamiento.
+4. no afectaria ya que son pcs individuales pero si se encuentran todas en el mismo disco podria llegar a crashearse.
