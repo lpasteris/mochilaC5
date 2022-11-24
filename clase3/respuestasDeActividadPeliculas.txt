@@ -1,0 +1,12 @@
+°si se puede con el comando mkdir y el nombre de los directorios
+	mkdir Peliculas/ Peliculas/Infantiles Peliculas/Accion Peliculas/Terror Peliculas/Comedia Peliculas/Romanticas
+ 
+°si se puede despues de entrar a la carpeta cd Infantiles/ con el comando touch y el nombre de los archivos
+	touch Intenzamente.txt "El juego del miedo.xls" "Rapido y furioso.pdf" Titanic.jpg
+
+°estando en DH creo una una carpeta pruebas y dentro de prueba otra llamada romanticas con el comando	
+	mkdir Prueba/ Prueba/Romanticas
+
+°estando en Romanticas creo una carpeta prueba2 y en la carpeta Accion
+	mkdir Prueba2/ Prueba2/Accion 
+
