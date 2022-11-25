@@ -1,0 +1,48 @@
+[33mcommit 160010b200b6f41e9761ef2265a00539e72b7055[m[33m ([m[1;36mHEAD -> [m[1;32mSilverokevin[m[33m, [m[1;31morigin/Silverokevin[m[33m)[m
+Merge: dbf4c45 36907f0
+Author: Kevin Silvero <kevinqac@hotmail.com.ar>
+Date:   Sat Nov 12 22:42:02 2022 -0300
+
+    Merge branch 'Silverokevin' of https://github.com/lpasteris/mochilaC5 into Silverokevin
+
+[33mcommit dbf4c455919bcd10a84655a46065f45fa6d15252[m
+Author: Kevin Silvero <kevinqac@hotmail.com.ar>
+Date:   Sat Nov 12 22:40:30 2022 -0300
+
+    Clase 12 entregada
+
+[33mcommit 36907f0cfba901d4fb5b31c7fbe1981fb65b8e80[m
+Author: SilveroKevin <kevinqac@hotmail.com.ar>
+Date:   Thu Nov 3 21:03:09 2022 -0300
+
+    Clase subida clase9
+
+[33mcommit 8907fcee02df1dc33204579ee8dd8c87fd047389[m
+Author: Kevin Silvero <kevinqac@hotmail.com.ar>
+Date:   Sun Oct 30 18:55:54 2022 -0300
+
+    Subi ejercicio de la clase 3
+
+[33mcommit 2cbae8529c2b06db41ff052118599c512d011879[m
+Author: Kevin Silvero <kevinqac@hotmail.com.ar>
+Date:   Sun Oct 30 18:37:46 2022 -0300
+
+    creacion de carpeta Git con archivo Git y Github
+
+[33mcommit c3f4a65c41e42e30345f6c03d46c27b753fbea39[m
+Author: Kevin Silvero <kevinqac@hotmail.com.ar>
+Date:   Sun Oct 30 17:51:30 2022 -0300
+
+    Subi los comandos de GIT
+
+[33mcommit cc0c32ec8145454e9d9a9ad2bfcc6a47bf1be70c[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmain[m[33m)[m
+Author: lpasteris <81142045+lpasteris@users.noreply.github.com>
+Date:   Thu Oct 27 19:04:28 2022 -0300
+
+    Create README.md
+
+[33mcommit 1c92d2a65d611e2336bbbc1561d4388aaf62e57d[m
+Author: lucas <lpasteris@digitalhouse.com>
+Date:   Thu Oct 27 16:42:01 2022 -0300
+
+    primer commit
