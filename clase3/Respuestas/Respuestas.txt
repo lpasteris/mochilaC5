@@ -1,0 +1,21 @@
+
+GIT Bash
+
+9) 
+-Si, mkdir DH DH/Peliculas DH/Peliculas/Infantiles DH/Peliculas/Accion DH/Peliculas/Terror DH/Peliculas/Comedia DH/Peliculas/Romanticas
+-Si, touch Peliculas/Infantiles/Intenzamente.txt Peliculas/Infantiles/"El juego del miedo".xls Peliculas/Infantiles/"Rapido y furioso".pdf Peliculas/Infantiles/"Titanic".jpg Peliculas/Accion/"Smooth criminal"txt Peliculas/Accion/"Diario de una pasion".js Peliculas/Accion/"El hexorcista".xls Peliculas/Accion/Cars.jpg Peliculas/Terror/"La dama y el bagavundo".png Peliculas/Terror/"Yo antes de ti".xls Peliculas/Terror/"Que paso ayer".pdf Peliculas/Terror/"We will rock you".js Peliculas/Comedia/Madagaskar.js Peliculas/Comedia/"Orgullo y prejuicio"txt Peliculas/Comedia/IT.xls Peliculas/Comedia/"Mision imposible".png Peliculas/Romanticas/Pocahontas.jpg Peliculas/Romanticas/Annabelle.js Peliculas/Romanticas/"Los vengadores"js Peliculas/Romanticas/"La mascara"js
+- mkdir Peliculas/Romanticas/Prueba
+-$ mkdir ../Accion//Pueba2
+
+Visual Estudio
+
+1) Abriremos el VSCode y abriremos una nueva terminal con Git Bash dentro del mismo (Ver guía de instalación de Git Bash).
+2) Mover los archivos que no correspondan a la carpeta con la categoría de película correspondiente. 
+3) Estando ubicados en la carpeta DH renombrar los archivos que están mal nombrados debido a faltas ortográficas.
+4) Estando ubicados en la carpeta DH remover (eliminar) los archivos que no sean peliculas y corresponden a canciones en un solo comando c/u. 
+5) Ubicados en la carpeta DH crear el archivo noBorrar.js en la carpeta prueba2. En un solo comando.
+6) Ubicados en la carpeta peliculas mover el archivo noBorrar.js de la carpeta prueba2 a la carpeta prueba. En un solo comando.
+7) Ubicados en la carpeta DH crear un archivo llamado camadax.txt
+8) Ubicados en la carpeta peliculas, mover el archivo IT a la carpeta infantiles. En un solo comando.
+9) Ubicados en la carpeta peliculas eliminar el archivo camadax.txt
+10) Ubicados en la carpeta peliculas eliminar la carpeta prueba. En un solo comando. 
