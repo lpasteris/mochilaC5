@@ -1,0 +1,3 @@
+-Porque es un lenguaje de programacion que compila a ensamblador.
+-Es un hipervisor de tipo 2.
+-Presta recursos como memoria y procesamiento para que se ejecute la VM
