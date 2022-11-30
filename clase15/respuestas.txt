@@ -1,0 +1,4 @@
+1) Depende de como se compile. Visual Basic, por ejemplo, solo compila en Windows.
+2) Windows, Linux y macOS
+3) Crea y corre maquinas virtuales. Permite que una computadora pueda correr otras maquinas dentro de si misma.
+4) No, porque cada maquina virtual corre en un "espacio" aislado de todo el resto de la computadora, incluidas otras maquinas virtuales. Es por esto que son confiables para correr cualquier archivo si hay miedo de que sea un virus, porque no hay chance que se filtre a la computadora principal.
