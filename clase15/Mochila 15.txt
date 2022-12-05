@@ -1,0 +1,14 @@
+
+1. Un lenguaje de programacion esta pensado para que el sistema operativo sobre el que se ejecute entienda al mismo, por lo que existen diferentes lenguajes de programacion segun los diferentes lenguajes de cada software. 
+
+2. VirtualBox soporta GNU/Linux, Mac OS X, OS/2 Warp, Genode, Windows y Solaris/OpenSolaris
+
+3. El hypervisor es una herramienta que funciona como el administrador de recursos de la maquina virtual, ya que separa los recursos de hardware que se prestaran desde la maquina fisica a la virtual para que esta funcione correctamente.
+
+4. No, debido a que son sistemas independientes entre si, funcionando enteramente dentro de su propio entorno.
+
+
+
+
+
+.
