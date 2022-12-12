@@ -1,4 +1,29 @@
-¿Por qué un lenguaje de programación sólo puede utilizarse en algunos sistemas operativos y en otros no?. 
-¿Qué tipo de máquina virtual soporta virtualBox?. 
-¿Qué función cumple el hypervisor en la virtualización?
-Si tengo más de una máquina virtual instalada, y una se rompe, ¿esto afecta a las demás? ¿por qué?
+1) - ¿Por qué un lenguaje de programación sólo puede utilizarse en algunos sistemas operativos y en otros no?
+
+Si nos referimos al ensamblador es porq depende de 2 cosas, de la arquitectura del procesador y la interpretación que le de el sistema operativo
+
+
+
+_____________________
+2) - ¿Qué tipo de máquina virtual soporta virtualBox?
+
+VirtualBox es multiplataforma ya que soporta Windows, Linux, FreeBSD y Linux
+Soporta todas las ediciones de Windows incluido Windows Server
+En general, hay dos tipos de máquinas virtuales: máquinas virtuales de procesos y de sistemas. Una máquina virtual de procesos, también conocida como MV de aplicación o entorno de tiempo de ejecución gestionado (MRE) es una plataforma virtual utilizada para ejecutar un solo proceso como aplicación en una máquina host.
+
+
+
+
+_____________________
+3) - ¿Qué función cumple el hypervisor en la virtualización?
+
+Un hipervisor permite que un ordenador host preste soporte a varias máquinas virtuales invitadas mediante el uso compartido virtual de sus recursos, como la memoria y el procesamiento.
+El hipervisor abstrae y aísla las máquinas virtuales y sus programas del hardware del servidor subyacente, permitiendo su uso
+
+
+
+
+______________________
+4) - Si tengo más de una máquina virtual instalada, y una se rompe, ¿esto afecta a las demás? ¿por qué?
+
+No afecta. porque son unidades (SW) independientes q comparten el hardware a través del hypervisor
