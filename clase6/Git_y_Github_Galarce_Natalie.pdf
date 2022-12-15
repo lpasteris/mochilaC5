@@ -1,0 +1,45 @@
+Descriptores de rutas:
+/ Ruta raíz del sistema
+. Directorio actual
+.. Directorio anterior
+~ Directorio home del usuario
+Atajos de teclado:
+CTRL-C Termina el proceso de un comando en la terminal
+CTRL-D Termina el input de un comando
+CTRL-A Avanza al inicio de línea
+CTRL-E Avanza al final de línea
+CTRL-L Limpia la pantalla de la terminal
+Operaciones con directorios:
+pwd Imprime el directorio actual
+mkdir dir1 Crea el directorio con nombre dir1
+cd dir1 Cambia al directorio con nombre dir1
+cd ../.. Cambia dos directorios anteriores del actual
+cd Cambia al directorio home del usuario
+ls Muestra archivos y directorios
+tree /ruta Muestra todos los archivos y directorios
+anidados dentro de la ruta a cualquier
+nivel de profundidad
+tree -L 2 . Muestra todos los archivos y directorios
+anidados dentro de la ruta actual a dos niveles
+de profundidad
+Operaciones de ls:
+-a Muestra todo (incluyendo archivos ocultos)
+-R Muestra una lista de manera recursiva
+-r Muestra listando de forma inversa
+-t Muestra los últimos modificados
+-S Muestra ordenando por tamaño
+-l Muestra usando un formato largo
+Manipulación de archivos y directorios:
+touch newFile Crea un nuevo archivo llamado newFile
+file mi_archivo Muestra las características de mi_archivo
+cp file1 /destino Copia el archivo file1 a la ruta /destino
+cp -r dir1 dir1_cp Copia el directorio dir1 y su contenido a
+uno nuevo llamado dir1_cp
+mv file1 /destino Mueve el archivo file1 a la ruta /destino
+mv file1 ok_file Renombra el archivo file1 al nombre ok_file
+rm file1 Elimina el archivo file1
+rm -ri dir1 Elimina el directorio dir1 y su contenido
+de forma interactiva
+rm -r dir1 Elimina el directorio dir1 y su contenido
+de forma directa
+ln -s file link_name Crea un link simbólico al archivo
